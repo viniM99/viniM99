@@ -24,8 +24,8 @@
 
 ## :wrench: &nbsp;GitHub Analytics
 <div>
-<img width="610em" src="https://github-readme-stats.vercel.app/api?username=viniM99&show_icons=true&theme=merko" alt="viniM99 stats"/>
-<img width="352em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniM99&layout=default&theme=merko" alt="viniM99 most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=viniM99&show_icons=true&theme=merko" alt="viniM99 stats"/>
+<img width="252em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniM99&layout=default&theme=merko" alt="viniM99 most languages"/>
 </div>
 
 ## :zap: &nbsp;Social Links
